@@ -1,0 +1,108 @@
+p
+    {
+        color:chocolate;
+    }
+
+
+div.logo
+    {
+        float: left;
+        width: 30%;
+        height: 200px;
+        background-color: darkkhaki;
+    }
+
+div.menu
+    {
+        float: left;
+        width: 70%;
+        height: 200px;
+        background-color: bisque;
+    }
+
+div.slider
+    {
+        float: left;
+        width: 100%;
+        height: 650px;
+        background-color: darkmagenta;
+    }
+
+div.petak1
+    {
+        float: left;
+        width: 25%;
+        height: 400px;
+        background-color: orange;
+    }
+
+div.petak2
+    {
+        float: left;
+        width: 25%;
+        height: 400px;
+        background-color: orangered;
+    }
+
+div.petak3
+    {
+        float: left;
+        width: 25%;
+        height: 400px;
+        background-color: orange;
+    }
+
+div.petak4
+    {
+        float: left;
+        width: 25%;
+        height: 400px;
+        background-color: orangered;
+    }
+
+div.footer
+    {
+        float: left;
+        width: 100%;
+        height: 70px;
+        background-color: gray;
+    }
+
+p.textfooter
+    {
+        color: cornsilk;
+        text-align: center;
+        font-family: tahoma;
+    }
+
+ol
+    {
+        list-style-type:lower-roman;
+    }
+
+ul
+    {
+        list-style-type: square;
+    }
+
+a
+    {
+        text-decoration:none;
+    }
+
+.fa-instagram
+    {
+        color:darkred;
+    }
+
+.fa-instagram:hover
+    {
+        color:crimson;
+    }
+
+.my-text
+    {
+        color: blueviolet;
+        font-size: 40pt;
+    }
+
